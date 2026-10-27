@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I’m Muhammed Haseeb Raza 👋<br><br>🎓 Computer Science graduate passionate about software development & research<br><br>💻 Skilled in Android Development, Web Development, Blockchain, .NET (C#), SQL, and Relational Database<br><br>🌐 Experienced in building modern web apps with React, Next.js, Node.js, and Tailwind CSS<br><br>🔐 Currently exploring smart contracts, decentralized apps, and operating systems<br><br>⚡ Love building real-world solutions ,from mobile apps to enterprise systems<br><br>📚 Interested in teaching, research, and contributing to open-source projects<br><br>🌟 What I Do<br><br>Develop scalable Android apps with Firebase, Room, and blockchain integration<br><br>Build full-stack web applications (React, Next.js, Node.js, APIs, SQL/NoSQL)<br><br>Work on desktop applications with .NET & SQL Server<br><br>Create IoT-based automation and real-time data systems<br><br>Explore decentralized systems & compiler design concepts
 
 
